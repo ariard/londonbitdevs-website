@@ -26,7 +26,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Using service bit 24 for utreexo signaling in testnet and signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021515.html)
 - [BIP for OP_VAULT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021510.html)
 - [Minimum fees](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021512.html)
-- 
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -47,7 +46,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [Newsletter #243](https://bitcoinops.org/en/newsletters/2023/03/22/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/23/)
 
 ## Network Data
--
+- [Default mempools full, minimum feerate consistently above 1sat/vB](https://twitter.com/murchandamus/status/1640324981140733953?s=20)
 
 ## CVEs and Research
 ### Research
@@ -73,7 +72,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [#1421: Add OP_VAULT (BIP 345)](https://github.com/bitcoin/bips/pull/1421)
 
 ## New Releases
--
+- [mempool.space v2.5.0](https://github.com/mempool/mempool/releases/tag/v2.5.0)
 
 ## Events and Podcasts
 -
