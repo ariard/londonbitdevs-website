@@ -76,7 +76,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Mining
--
+- [Stratum V2 adds Job Negotiator](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
 
 ## Privacy
 -
