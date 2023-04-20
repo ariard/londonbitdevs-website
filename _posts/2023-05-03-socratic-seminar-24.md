@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/bitdevsldn/events/292894936/
 
 ## Announcements
 
-Please join us for our next Socratic Seminar. This Socratic Seminar is sponsored by <!--- TODO: insert sponsor --->.
+Please join us for our next Socratic Seminar. This Socratic Seminar is sponsored by [Ben Delo](https://twitter.com/bendelo).
 Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## General Links
