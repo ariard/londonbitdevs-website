@@ -58,7 +58,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
--
+- [Add pool based memory resource](https://github.com/bitcoin/bitcoin/pull/25325)
+- [addrman: Enable selecting addresses by network](https://github.com/bitcoin/bitcoin/pull/27214)
+- [p2p: update hardcoded mainnet seeds for 25.x](https://github.com/bitcoin/bitcoin/pull/27488)
+- [mempool: disallow txns under min relay fee, even in packages](https://github.com/bitcoin/bitcoin/pull/26933)
+- [p2p: skip netgroup diversity of new connections for tor/i2p/cjdns](https://github.com/bitcoin/bitcoin/pull/27374)
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
@@ -71,7 +75,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
--
+- [Pseudo ephemeral anchors](https://github.com/bitcoin-inquisition/bitcoin/pull/23)
 
 ### [BIP]
 -
