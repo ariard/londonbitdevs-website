@@ -20,7 +20,15 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://lists.linuxfoundation.org/pipermail/bitcoin-dev)
--
+- [Seeking concept ACKs for transaction terminology BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021550.html)
+- [RGB protocol announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
+- [Civ Kit: A Peer-to-Peer Electronic Market System](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021556.html)
+- [Proposal to Remove BIP35 P2P 'mempool' Message](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021562.html)
+- [Conjectures on solving the high interactivity issue in payment pools and channel factories](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021560.html)
+- [A new Bitcoin implementation integrated with Core Lightning](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021566.html)
+- [Vaults in the MATT framework](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021588.html)
+- [proposal: new opcode OP_ZKP to enable ZKP-based spending authorization](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021592.html)
+- [On adaptor security (in protocols)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021594.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -72,7 +80,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## New Releases
--
+- [libsecp256k1 v0.3.1 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021553.html)
 
 ## Events and Podcasts
 -
