@@ -27,7 +27,9 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
-  -
+  - #27255 MiniTapscript: port Miniscript to Tapscript: [part 1](https://bitcoincore.reviews/27255) and [part 2](https://bitcoincore.reviews/27255-2)
+  - [#27039 Do not flush block to disk if it is already there](https://bitcoincore.reviews/27039)
+  - [#27460 Add importmempool RPC](https://bitcoincore.reviews/27460)
 
 ### Optech
 - [Newsletter #244](https://bitcoinops.org/en/newsletters/2023/03/29/), [audio recap](https://bitcoinops.org/en/podcast/2023/03/30/)
