@@ -31,7 +31,8 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [On adaptor security (in protocols)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021594.html)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
--
+- [Proposed changes to the splicing specification](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003895.html)
+- [Splice Lock Race Condition Solution](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-April/003903.html)
 
 ### Meetings
 - [Bitcoin PR Review Club](https://bitcoincore.reviews)
@@ -54,7 +55,11 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### InfoSec
--
+- [i2pd specific attack](https://github.com/PurpleI2P/i2pd/discussions/1918)
+- [How to stop the onion denial (of service)](https://blog.torproject.org/stop-the-onion-denial/)
+- [Network DDoS](https://status.torproject.org/issues/2022-06-09-network-ddos/)
+- [Tor Project shares proposals to limit DDoS impact on Onion sites](https://www.bleepingcomputer.com/news/security/tor-project-shares-proposals-to-limit-ddos-impact-on-onion-sites/)
+- [A First Take at Pow Over Introduction Circuits](https://gitlab.torproject.org/tpo/core/torspec/-/blob/main/proposals/327-pow-over-intro.txt?ref=nobsbitcoin.com)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -66,13 +71,18 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 
 ### [LND](https://github.com/lightningnetwork/lnd)
--
+- [watchtower: start using the DeleteSession message](https://github.com/lightningnetwork/lnd/pull/7069)
+- [funding: add fundmax flag to OpenChannelRequest](https://github.com/lightningnetwork/lnd/pull/6903)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
--
+- [Only disable ~10 min after disconnect, rather than one](https://github.com/lightningdevkit/rust-lightning/pull/2198)
 
 ### [Eclair](https://github.com/ACINQ/eclair)
--
+- [Add support for splices](https://github.com/ACINQ/eclair/pull/2584)
+
+### [Core-Lightning](https://github.com/ElementsProject/lightning)
+- [List runes](https://github.com/ElementsProject/lightning/pull/6124)
+- [Zero fee htlc prep part #3: Block estimates, and the Return of RBF](https://github.com/ElementsProject/lightning/pull/6120)
 
 ### [Bitcoin-inquisition](https://github.com/bitcoin-inquisition/bitcoin)
 - [Pseudo ephemeral anchors](https://github.com/bitcoin-inquisition/bitcoin/pull/23)
@@ -81,7 +91,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### [BOLT]
--
+- [extension-bolt: taproot gossip](https://github.com/lightning/bolts/pull/1059)
 
 ## New Releases
 - [libsecp256k1 v0.3.1 released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021553.html)
@@ -96,4 +106,3 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
