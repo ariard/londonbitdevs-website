@@ -55,7 +55,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 - [milk sad disclosure](https://milksad.info/)
 
 ### Research
--
+- [Concrete MATT opcodes](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-July/021827.html)
 
 ### InfoSec
 -
