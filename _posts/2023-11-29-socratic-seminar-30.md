@@ -92,4 +92,5 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Codex32: A Shamir Secret Sharing Scheme](https://blog.blockstream.com/codex32-a-shamir-secret-sharing-scheme/)
+- [The Stable is the Aesthetic](https://rodarmor.com/blog/the-stable-is-the-aesthetic/)
