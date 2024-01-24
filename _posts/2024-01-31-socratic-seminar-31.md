@@ -37,7 +37,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ## CVEs and Research
 ### Research
--
+- [Ledger Connect Kit](https://www.ledger.com/blog/security-incident-report)
 
 ### InfoSec
 -
@@ -79,4 +79,6 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ## Miscellaneous
--
+- [Ord Release 0.15.0](https://github.com/ordinals/ord/releases/tag/0.15.0)
+- [Vindication](https://github.com/ordinals/ord/pull/2950)
+- [Delegation](https://github.com/ordinals/ord/pull/2912)
