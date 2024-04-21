@@ -22,7 +22,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 
 ### Mailing Lists
 #### [bitcoindev](https://groups.google.com/g/bitcoindev)
--
+- [The Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ)
 
 #### [lightning-dev](https://lists.linuxfoundation.org/pipermail/lightning-dev)
 -
@@ -42,7 +42,7 @@ Please speak to the hosts if you're interested in supporting London BitDevs.
 -
 
 ### InfoSec
--
+- [CVE-2023-39910 : Libbitcoin Answer](https://github.com/libbitcoin/libbitcoin-explorer/wiki/CVE-2023-39910)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
